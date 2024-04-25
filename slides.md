@@ -71,7 +71,7 @@ layout: section
 
 ---
 
-# Example: CARR Alarm System
+# Example: KARR Alarm System
 
 Don't install this when your dealer tries to sell you one!
 
